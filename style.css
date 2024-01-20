@@ -1,0 +1,49 @@
+button{
+    background-color: #262262 ;
+    color:white
+}
+h1{
+    color:#262262
+}
+
+#navbar{
+    height:30px;
+    background-color:rgba(255, 162, 0, 0.959);
+}
+
+a{
+    margin-right:60px;
+    size:50%;
+}
+
+
+#para1{
+    font-size:xx-large;
+    color:white;
+}
+
+
+
+#para2{
+    font-size:xx-large;
+    color:white;
+}
+.bodypart1{
+  background-color:rgba(0, 81, 255, 0.619);
+  height: 400px;
+  width: 1000px;
+
+  text-align: center;
+ 
+}
+.bodypart2{
+    background-color:rgba(34, 128, 0, 0.667);
+    height :200px;
+    width :1000px;
+}
+   
+#navbar2{
+    height:170px;
+    background-color:rgba(51, 0, 255, 0.929);
+    color:white;
+}
